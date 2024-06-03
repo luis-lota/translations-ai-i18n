@@ -1,0 +1,29 @@
+{
+  "WATERANIMAL": "Angel Fish",
+  "LANDANIMAL": "Giraffe",
+  "WORK": "Programmer",
+  "COLORS": [
+    {
+      "NAME": "red",
+      "SHADING": "dark"
+    },
+    {
+      "NAME": "green",
+      "SHADING": "light"
+    },
+    {
+      "NAME": "blue",
+      "SHADING": "deep"
+    }
+  ],
+  "COST": {
+    "DOLLARS": {
+      "PRIMARY": "Fifty",
+      "TAX": "Ten"
+    },
+    "EUROS": {
+      "PRIMARY": "Forty Two",
+      "TAX": "Eight"
+    }
+  }
+}

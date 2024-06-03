@@ -1,0 +1,23 @@
+{
+  "name": "translations-ai-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "google",
+    "translate",
+    "google",
+    "api",
+    "node.js"
+  ],
+  "author": "Luis Lota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "superagent": "^9.0.2"
+  }
+}
